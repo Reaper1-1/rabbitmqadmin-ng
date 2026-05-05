@@ -1,6 +1,15 @@
 # rabbitmqadmin-ng Change Log
 
-## v2.30.0 (in development)
+## v2.31.0 (in development)
+
+No changes yet.
+
+
+## v2.30.0 (May 4, 2026)
+
+### Bug Fixes
+
+ * `streams declare` did not respect the max age argument
 
 ### Dependency Upgrades
 
